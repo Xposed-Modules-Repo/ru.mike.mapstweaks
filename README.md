@@ -22,4 +22,4 @@ Most of the UI tweaks are startup-tweaks that mean they handle during the apps l
 [xda](https://forum.xda-developers.com/t/mod-xposed-4-0-3-mapstweaks-google-maps-yandex-maps.4010765/) or [4pda](https://4pda.to/forum/index.php?forums%5B%5D=489&topics%5B%5D=603033&act=search&source=pst&query=mapstweaks)
 
 ## Author
-[MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2019-2024
+[MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2019-2025
